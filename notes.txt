@@ -22,3 +22,6 @@ COMMITTED
 changed font-family for h3
 added <nav> and <a> elements to <footer>
 COMMITTED
+
+cleaned up css for h1
+COMMITTED

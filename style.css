@@ -2,17 +2,15 @@ body {
     font-family: "Open Sans";
 }
 
-header {
+h1 {
     color: white;
     background-color: #004175;
-    padding: 2px;
-    border-bottom: 4px solid #89DEEF;
+    padding: 20px;
+    border-bottom: 3px solid #89DEEF;
+    padding-left: 40px;
 }
 
-h1 {
-    padding-left: 30px;
-}
-
+.foot,
 h3 {
     font-family: "Oswald";
 }
