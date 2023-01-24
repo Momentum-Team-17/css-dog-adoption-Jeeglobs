@@ -13,5 +13,8 @@ COMMITTED
 added src and alt to img elements in main
 COMMITTED
 
-added href to a in header
+added href to <a> in header
+COMMITTED
+
+addee <li> elements to <main>
 COMMITTED
