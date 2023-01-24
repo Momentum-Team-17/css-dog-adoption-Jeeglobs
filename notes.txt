@@ -25,3 +25,7 @@ COMMITTED
 
 cleaned up css for h1
 COMMITTED
+
+added css to <li> and <ul>
+added flexbox to <li and <ul>
+COMMITTED
