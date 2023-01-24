@@ -1,3 +1,8 @@
 notes added
 COMMITTED
 
+created html and css and linked the two
+COMMITTED
+
+created header, added css, added link to font -- did not work
+COMMITTED
