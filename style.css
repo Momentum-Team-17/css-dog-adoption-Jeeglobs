@@ -1,7 +1,14 @@
-header {
+body {
     font-family: "Open Sans";
+}
+
+header {
     color: white;
     background-color: #004175;
-    padding: 1px;
-    border-bottom: 10px solid #89DEEF;
+    padding: 3px;
+    border-bottom: 4px solid #89DEEF;
+}
+
+header h1 {
+    padding-left: 12px;
 }
