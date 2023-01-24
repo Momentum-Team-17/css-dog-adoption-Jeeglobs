@@ -9,3 +9,6 @@ COMMITTED
 
 created main, added nine articles with img, h3, and ul within. created footer.
 COMMITTED
+
+added src and alt to img elements in main
+COMMITTED
