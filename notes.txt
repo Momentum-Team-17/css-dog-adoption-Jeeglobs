@@ -6,3 +6,6 @@ COMMITTED
 
 created header, added css, added link to font -- did not work
 COMMITTED
+
+created main, added nine articles with img, h3, and ul within. created footer.
+COMMITTED
