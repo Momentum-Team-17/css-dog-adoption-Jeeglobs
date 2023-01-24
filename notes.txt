@@ -18,3 +18,7 @@ COMMITTED
 
 addee <li> elements to <main>
 COMMITTED
+
+changed font-family for h3
+added <nav> and <a> elements to <footer>
+COMMITTED
