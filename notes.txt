@@ -45,3 +45,6 @@ COMMITTED
 
 added padding to <main>
 COMMITTED
+
+tried to resize article elements to look like example, but not quite right
+COMMITTED

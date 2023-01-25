@@ -21,25 +21,23 @@ h3 {
 .foot,
 h3 {
     font-family: "Oswald";
-    /* border: solid; */
 }
 
 li {
     background-color: #89DEEF;
     list-style: none;
     border-radius: 25%;
-    padding: 3px;
+    padding: 2px;
     margin: 2px;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
     position: relative;
     right: 42px;
-    /* border: solid; */
 }
 
 ul {
     display: flex;
     flex-wrap: wrap;
-    max-width: 300px;
+    max-width: 310px;
     /* border: solid; */
 }
 
@@ -49,13 +47,13 @@ ul {
 }
 
 img {
-    max-width: 300px;
+    max-width: 305px;
     margin-bottom: -20px;
     /* border: solid; */
 }
 
 article {
     /* border: solid; */
-    max-width: 300px;
-    margin: 4px;
+    max-width: 310px;
+    margin: 2px;
 }
