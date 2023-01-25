@@ -18,9 +18,9 @@ h3 {
 li {
     background-color: #89DEEF;
     list-style: none;
-    border-radius: 40%;
+    border-radius: 30%;
     padding: 5px;
-    margin: 0 5px;
+    margin: 5px;
     position: relative;
     right: 45px;
     display: flex;
@@ -30,4 +30,16 @@ li {
 ul {
     display: flex;
     flex-wrap: wrap;
+    max-width: 50%;
+}
+
+.dogs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* CANNOT FIND THE CORRECT COMBO OF FLEX */
+
+img {
+    max-width: 50%;
 }

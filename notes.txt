@@ -29,3 +29,6 @@ COMMITTED
 added css to <li> and <ul>
 added flexbox to <li and <ul>
 COMMITTED
+
+changed max-width of <ul> and <img>
+COMMITTED
