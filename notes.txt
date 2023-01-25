@@ -42,3 +42,6 @@ COMMITTED
 
 fixed flex on articles and adjusted css
 COMMITTED
+
+added padding to <main>
+COMMITTED

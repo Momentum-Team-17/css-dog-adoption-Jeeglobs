@@ -2,6 +2,10 @@ body {
     font-family: "Open Sans";
 }
 
+main {
+    padding: 0 45px;
+}
+
 h1 {
     color: white;
     background-color: #004175;
@@ -17,25 +21,26 @@ h3 {
 .foot,
 h3 {
     font-family: "Oswald";
+    /* border: solid; */
 }
 
 li {
     background-color: #89DEEF;
     list-style: none;
-    border-radius: 35%;
+    border-radius: 25%;
     padding: 3px;
-    margin: 3px;
-    font-size: 0.6rem;
+    margin: 2px;
+    font-size: 0.7rem;
     position: relative;
     right: 42px;
-    /* display: flex;
-    flex-wrap: wrap; */
+    /* border: solid; */
 }
 
 ul {
     display: flex;
     flex-wrap: wrap;
     max-width: 300px;
+    /* border: solid; */
 }
 
 .dogs {
@@ -46,6 +51,7 @@ ul {
 img {
     max-width: 300px;
     margin-bottom: -20px;
+    /* border: solid; */
 }
 
 article {
