@@ -51,3 +51,7 @@ COMMITTED
 
 changed border-radius from % to px, which made the edges more round/smooth
 COMMITTED
+
+changed class name and id for section containing articles
+created #navbar with nested .nav-links
+COMMITTED

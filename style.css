@@ -37,23 +37,33 @@ li {
 ul {
     display: flex;
     flex-wrap: wrap;
-    max-width: 310px;
-    /* border: solid; */
+    max-width: 100%;
 }
 
-.dogs {
+#dog-container {
     display: flex;
     flex-wrap: wrap;
 }
 
 img {
-    max-width: 305px;
+    max-width: 99%;
     margin-bottom: -20px;
-    /* border: solid; */
 }
 
-article {
-    /* border: solid; */
-    max-width: 310px;
-    margin: 2px;
+.dog {
+    max-width: 325px;
+    margin: 4px;
+}
+
+#navbar {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.nav-link {
+
+}
+
+* {
+    border: 1px solid black;
 }
