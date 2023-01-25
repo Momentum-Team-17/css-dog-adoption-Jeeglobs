@@ -58,3 +58,6 @@ COMMITTED
 
 finished footer thanks to Chris!
 COMMENTED
+
+made .dog-pics the same size using 'object-fit' and 'aspect-ratio'
+COMMITTED

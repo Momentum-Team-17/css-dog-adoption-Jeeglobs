@@ -44,6 +44,8 @@ ul {
 .dog-pic {
     max-width: 100%;
     margin-bottom: -20px;
+    aspect-ratio: 4/3;
+    object-fit: cover;
 }
 
 .dog {
