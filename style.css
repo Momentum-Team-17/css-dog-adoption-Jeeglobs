@@ -14,12 +14,8 @@ h1 {
     padding-left: 40px;
 }
 
-h3 {
+.dog-name {
     margin-bottom: -15px;
-}
-
-.foot,
-h3 {
     font-family: "Oswald";
 }
 
@@ -45,8 +41,8 @@ ul {
     flex-wrap: wrap;
 }
 
-img {
-    max-width: 99%;
+.dog-pic {
+    max-width: 100%;
     margin-bottom: -20px;
 }
 
@@ -55,15 +51,49 @@ img {
     margin: 4px;
 }
 
+/* FOOTER ELEMENTS BELOW */
+
+footer {
+    font-family: "Oswald";
+}
+
 #navbar {
     display: flex;
     flex: 1 1 auto;
+    height: 230px;
+    /* align-items: stretch; */
 }
 
-.nav-link {
-
+.nav-box {
+    width: 33%;
+    height: 100%;
+    display: flex;
 }
+
+.nav-text {
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    margin: auto;
+}
+
+#box-1 {
+    background: linear-gradient(rgba(9, 77, 100, 0.464), rgba(9, 77, 100, 0.464)), url(starter_files/images/donate.jpg);
+    background-size: cover;
+}
+
+#box-2 {
+    background: linear-gradient(rgba(9, 77, 100, 0.464), rgba(9, 77, 100, 0.464)), url(starter_files/images/volunteer.jpg);
+    background-size: cover;
+}
+
+#box-3 {
+    background: linear-gradient(rgba(9, 77, 100, 0.464), rgba(9, 77, 100, 0.464)), url(starter_files/images/location.png);
+    background-size: cover;
+}
+
+/* BORDERS FOR ALL BELOW */
 
 * {
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }

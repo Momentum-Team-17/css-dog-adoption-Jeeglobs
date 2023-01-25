@@ -55,3 +55,6 @@ COMMITTED
 changed class name and id for section containing articles
 created #navbar with nested .nav-links
 COMMITTED
+
+finished footer thanks to Chris!
+COMMENTED
