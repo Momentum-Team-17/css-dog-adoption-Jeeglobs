@@ -22,20 +22,20 @@ h3 {
 li {
     background-color: #89DEEF;
     list-style: none;
-    border-radius: 40%;
-    padding: 5px;
+    border-radius: 35%;
+    padding: 3px;
     margin: 3px;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     position: relative;
     right: 42px;
-    display: flex;
-    flex-wrap: wrap;
+    /* display: flex;
+    flex-wrap: wrap; */
 }
 
 ul {
     display: flex;
     flex-wrap: wrap;
-    max-width: 40%;
+    max-width: 300px;
 }
 
 .dogs {
@@ -43,9 +43,13 @@ ul {
     flex-wrap: wrap;
 }
 
-/* CANNOT FIND THE CORRECT COMBO OF FLEX */
-
 img {
-    max-width: 40%;
+    max-width: 300px;
     margin-bottom: -20px;
+}
+
+article {
+    /* border: solid; */
+    max-width: 300px;
+    margin: 4px;
 }

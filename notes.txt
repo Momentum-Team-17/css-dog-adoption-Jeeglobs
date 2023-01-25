@@ -39,3 +39,6 @@ COMMITTED
 changed font-size of <li>
 adjusted margins on elements within articles
 COMMITTED
+
+fixed flex on articles and adjusted css
+COMMITTED
