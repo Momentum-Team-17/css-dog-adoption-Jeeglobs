@@ -48,3 +48,6 @@ COMMITTED
 
 tried to resize article elements to look like example, but not quite right
 COMMITTED
+
+changed border-radius from % to px, which made the edges more round/smooth
+COMMITTED
