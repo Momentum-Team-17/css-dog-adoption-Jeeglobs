@@ -32,3 +32,6 @@ COMMITTED
 
 changed max-width of <ul> and <img>
 COMMITTED
+
+adjusted padding for elements within articles
+COMMITTED
