@@ -1,0 +1,63 @@
+notes added
+COMMITTED
+
+created html and css and linked the two
+COMMITTED
+
+created header, added css, added link to font -- did not work
+COMMITTED
+
+created main, added nine articles with img, h3, and ul within. created footer.
+COMMITTED
+
+added src and alt to img elements in main
+COMMITTED
+
+added href to <a> in header
+COMMITTED
+
+addee <li> elements to <main>
+COMMITTED
+
+changed font-family for h3
+added <nav> and <a> elements to <footer>
+COMMITTED
+
+cleaned up css for h1
+COMMITTED
+
+added css to <li> and <ul>
+added flexbox to <li and <ul>
+COMMITTED
+
+changed max-width of <ul> and <img>
+COMMITTED
+
+adjusted padding for elements within articles
+COMMITTED
+
+changed font-size of <li>
+adjusted margins on elements within articles
+COMMITTED
+
+fixed flex on articles and adjusted css
+COMMITTED
+
+added padding to <main>
+COMMITTED
+
+tried to resize article elements to look like example, but not quite right
+COMMITTED
+
+changed border-radius from % to px, which made the edges more round/smooth
+COMMITTED
+
+changed class name and id for section containing articles
+created #navbar with nested .nav-links
+COMMITTED
+
+finished footer thanks to Chris!
+COMMENTED
+
+made .dog-pics the same size using 'object-fit' and 'aspect-ratio'
+COMMITTED
